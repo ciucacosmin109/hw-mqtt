@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "publisher": "node publisher.js",
+    "subscriber": "node subscriber.js"
+  },
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
